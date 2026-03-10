@@ -1,0 +1,86 @@
+/* Typography upgrade */
+
+body {
+  font-family: "Libre Baskerville", Georgia, "Times New Roman", serif;
+  font-size: 19px;
+  line-height: 1.75;
+
+  /* Warm dark palette */
+  background-color: #1b1816;
+  color: #e7e0d6;
+}
+
+/* Limit reading width for better readability */
+.wrapper {
+  max-width: 720px;
+}
+
+/* Headings */
+
+h1, h2, h3, h4 {
+  font-family: "Libre Baskerville", Georgia, serif;
+  font-weight: 700;
+  line-height: 1.25;
+  margin-top: 2rem;
+  color: #f2e9df;
+}
+
+h1 {
+  font-size: 2.2rem;
+}
+
+h2 {
+  font-size: 1.7rem;
+}
+
+h3 {
+  font-size: 1.4rem;
+}
+
+/* Paragraphs */
+
+.post-content p {
+  margin-bottom: 1.35em;
+}
+
+/* Links */
+
+a {
+  text-decoration: underline;
+  color: #e6a96b;   /* warm amber */
+}
+
+a:visited {
+  color: #d46a6a;   /* soft warm red */
+}
+
+/* Blockquotes */
+
+blockquote {
+  border-left: 4px solid #4a4039;
+  padding-left: 1rem;
+  font-style: italic;
+  color: #cfc6bb;
+}
+
+/* Code blocks */
+
+pre, code {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.9em;
+  background: #26221f;
+  color: #e8dccc;
+}
+
+/* Header + navigation tweaks */
+
+.site-header {
+  background-color: #201c1a;
+  border-bottom: 1px solid #3a332e;
+}
+
+/* Horizontal rules */
+
+hr {
+  border-color: #3b342f;
+}

@@ -1,4 +1,9 @@
-# Super Orso
+---
+layout: post
+title:  "Super Orso - Draft"
+date:   2026-03-10 09:00:00 +0100
+categories: stories drafts
+---
 
 The directive was simple: intercept the hero. Neutralise. Return.
 
