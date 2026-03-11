@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+**The Superbear Chronicles Blog**
