@@ -4,7 +4,6 @@ title:  "Super Orso - Draft"
 date:   2026-03-10 09:00:00 +0100
 categories: stories drafts
 ---
-
 ![Super Orso](/stories/assets/images/2026-03-10-super-orso/001.png)
 
 The directive was simple: intercept the hero. Neutralise. Return.
@@ -71,13 +70,9 @@ He kept walking. He could feel the healing energy settled low in his chest — q
 
 He turned a corner and saw it happening across the street.
 
-One of Butch Bear's goons had a young man backed against a wall outside a closed shop front. The young man was slight, mid-twenties, shoulders drawn inward, already losing the negotiation with his own instincts about whether to stay or go. The goon was speaking quietly. Reasonable tone, unhurried posture, the practised ease of a man who had done this many times and knew exactly how it ended.
+A big man had a young man backed against a wall outside a closed shop front — thick through the shoulders, a leather harness over a black tank top, boots that added weight to every step. One of Butch Bear's goons. The young man was slight, mid-twenties, shoulders drawn inward, already losing the negotiation with his own instincts about whether to stay or go. The goon was speaking quietly. Reasonable tone, unhurried posture, the practised ease of a man who had done this many times and knew exactly how it ended.
 
-Andrew recognised every beat of it.
-
-The approach. The flattery. The slow narrowing of options until staying felt easier than leaving.
-
-He recognised the target. He knew that body language from the inside.
+Andrew recognised every beat of it. The approach. The flattery. The slow narrowing of options until staying felt easier than leaving.
 
 He was crossing the street before the thought completed. No plan. No calculation. He stepped between them and turned to face the goon, and the goon looked at him — slight, smooth, visibly outmatched — and almost smiled.
 
@@ -85,7 +80,13 @@ He was crossing the street before the thought completed. No plan. No calculation
 
 The goon glanced past him at the young man, then back. Taking his time. "You sure about that, friend?" He said it the way you'd say it to a child who'd wandered into the wrong room — patient where another man might have been hostile. Waiting for Andrew to realise his mistake and correct it.
 
-The goon took a step forward, close enough that Andrew had to hold his position deliberately, his heart loud in his own ears. The almost-smile hadn't moved.
+The goon took a step forward, close enough that Andrew had to hold his position deliberately, his heart loud in his own ears. The almost-smile hadn't moved. "You've got nerve. I'll give you that. Wrong place to show it though."
+
+Andrew held his gaze. "Walk. Away."
+
+The goon looked at him for a moment. Then, without a word, reached past him toward the young man.
+
+Andrew had been on the other side of it — the moment the target stopped being a person and became a task. Something shifted in his chest, low and certain. He'd spent four weeks in a guest room recovering from what men like these did to people. He was done being something that got stepped around.
 
 The energy in his chest answered him.
 
@@ -111,11 +112,11 @@ The fist connected with Andrew's jaw and Andrew felt it — felt it the way you 
 
 The goon stared at his own hand.
 
-Andrew reached out, gripped the front of his shirt, and set him aside. Not a throw. Not a strike. Just a firm, unhurried repositioning, the way you move a piece of furniture.
+Andrew reached out, closed one hand around the goon's harness, and hoisted him off the pavement — one arm, no effort. He looked at him for a moment, dangling. Then tossed him aside. The goon hit the ground hard.
 
-The goon took a step back. Then another.
+He scrambled to his feet. Looked at Andrew, then at his own hands, then back at Andrew.
 
-"What the f***." He straightened his shirt, not meeting Andrew's eyes. "The boss is gonna hear about this."
+"What the fuck." He straightened his harness, already backing away. "The boss is gonna hear about this."
 
 He left. Quickly.
 
@@ -129,7 +130,7 @@ The man blinked. "I'm — yeah. I'm okay. What just—"
 
 The young man nodded, still staring, and then went.
 
-Andrew stood on the empty pavement and looked down at himself. The suit was real. The size of his hands was real. He raised one arm and watched the muscle move under the fabric, slow and enormous and his.
+Andrew stood on the empty pavement and looked down at himself. The size of his hands, spread wide and unfamiliar. The mass of his arms, dark hair thick across them, the cape shifting against his back in the cold air. He ran a hand slowly across his chest — the deep V of the suit open enough to feel the hair there, coarse and real beneath his fingers. He turned one hand over slowly, then the other. Still finding the edges of it. Still deciding what it meant.
 
 He stood there for a moment, just breathing.
 
