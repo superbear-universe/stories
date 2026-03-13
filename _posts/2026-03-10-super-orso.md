@@ -100,6 +100,8 @@ He kept walking. He could feel the healing energy settled low in his chest — q
 
 He turned a corner and saw it happening across the street.
 
+[![012](/stories/assets/images/2026-03-10-super-orso/012.png "012")](/stories/assets/images/2026-03-10-super-orso/012.png)
+
 A big man had a young man backed against a wall outside a closed shop front — thick through the shoulders, a leather harness over a black tank top, boots that added weight to every step. One of Butch Bear's goons. The young man was slight, mid-twenties, shoulders drawn inward, already losing the negotiation with his own instincts about whether to stay or go. The goon was speaking quietly. Reasonable tone, unhurried posture, the practised ease of a man who had done this many times and knew exactly how it ended.
 
 Andrew recognised every beat of it. The approach. The flattery. The slow narrowing of options until staying felt easier than leaving.
@@ -108,9 +110,13 @@ He was crossing the street before the thought completed. No plan. No calculation
 
 "Walk away," Andrew said.
 
+[![013](/stories/assets/images/2026-03-10-super-orso/013.png "013")](/stories/assets/images/2026-03-10-super-orso/013.png)
+
 The goon glanced past him at the young man, then back. Taking his time. "You sure about that, friend?" He said it the way you'd say it to a child who'd wandered into the wrong room — patient where another man might have been hostile. Waiting for Andrew to realise his mistake and correct it.
 
 The goon took a step forward, close enough that Andrew had to hold his position deliberately, his heart loud in his own ears. The almost-smile hadn't moved. "You've got nerve. I'll give you that. Wrong place to show it though."
+
+[![014](/stories/assets/images/2026-03-10-super-orso/014.png "014")](/stories/assets/images/2026-03-10-super-orso/014.png)
 
 Andrew held his gaze. "Walk. Away."
 
@@ -122,11 +128,31 @@ The energy in his chest answered him.
 
 Heat broke through his bloodstream in one decisive wave — thick, immediate, nothing like the cold press of Bill's energy or the corruption's narrowing grip. His heart shifted rhythm, slower and deeper, a beat he felt in his jaw and the backs of his hands and the soles of his feet all at once. The air sharpened. The street sharpened. The goon in front of him sharpened into something small and very readable. He stayed standing. He held the goon's gaze.
 
-His chest expanded first — one sharp involuntary inhale that kept going, his ribcage broadening past what his lungs needed, his jacket pulling taut across his back with a resistance that built and built and then simply gave. The stitching parted along the shoulders with a sound he felt more than heard. The mass arrived without stages: through his shoulders first, a deep pressure building under the skin like something finally filling a space that had always been too large — then the release, muscle thickening outward, warm and dense, a pleasant ache that sat at the exact threshold between effort and ease. Through his arms next, the same pressure and the same release, his sleeves tight and then gone, the skin over his biceps stretching taut and warm. Through his thighs the pressure came differently — slower, fuller, a dense warmth spreading down through the quad and into the knee, his jeans losing the fight inch by inch as the muscle beneath them simply outgrew the argument. Each wave hitting harder than the last, a full-body throb that started deep in the muscle and pushed outward, and he was aware of all of it at once, aware of his own body in a way he had never been before. A deep, insistent pleasure — the kind that lives in the muscle and means something. His hands grew wide and heavy at his sides, fingers thickening, his arms hanging differently now — weighted, settled, the pull of new mass making itself known at his shoulders and wrists. His feet found the pavement differently when it finished. More of him pressing down. The ground solid under him in a way it had never quite been before.
+<div style="display:flex; gap:10px;">
+  <a href="/stories/assets/images/2026-03-10-super-orso/015.png" style="width:33%;">
+    <img src="/stories/assets/images/2026-03-10-super-orso/015.png">
+  </a>
+  <a href="/stories/assets/images/2026-03-10-super-orso/016.png" style="width:33%;">
+    <img src="/stories/assets/images/2026-03-10-super-orso/016.png">
+  </a>
+    <a href="/stories/assets/images/2026-03-10-super-orso/017.png" style="width:33%;">
+    <img src="/stories/assets/images/2026-03-10-super-orso/017.png">
+  </a>
+</div>
+
+His chest expanded first — one sharp involuntary inhale that kept going, his ribcage broadening past what his lungs needed, his jacket pulling taut across his back with a resistance that built and built and then simply gave. The stitching parted along the shoulders with a sound he felt more than heard. The mass arrived without stages: through his shoulders first, a deep pressure building under the skin like something finally filling a space that had always been too large — then the release, muscle thickening outward, warm and dense, a pleasant ache that sat at the exact threshold between effort and ease.
+
+Through his arms next, the same pressure and the same release, his sleeves tight and then gone, the skin over his biceps stretching taut and warm. Through his thighs the pressure came differently — slower, fuller, a dense warmth spreading down through the quad and into the knee, his jeans losing the fight inch by inch as the muscle beneath them simply outgrew the argument. Each wave hitting harder than the last, a full-body throb that started deep in the muscle and pushed outward, and he was aware of all of it at once, aware of his own body in a way he had never been before. A deep, insistent pleasure — the kind that lives in the muscle and means something. His hands grew wide and heavy at his sides, fingers thickening, his arms hanging differently now — weighted, settled, the pull of new mass making itself known at his shoulders and wrists. His feet found the pavement differently when it finished. More of him pressing down. The ground solid under him in a way it had never quite been before.
+
+[![018](/stories/assets/images/2026-03-10-super-orso/018.png "018")](/stories/assets/images/2026-03-10-super-orso/018.png)
 
 The goon's almost-smile was gone.
 
-Heat concentrated in his jaw and the beard came with it — thick and black and immediate, the scratch of it against his own skin registering before he'd fully processed that it was there. He reached up, almost without thinking, and touched his face. Dark hair spread across his chest and arms in the same surge, dense and warm. Blue light pulsed once, sharp and brief, and the suit came with it: Azzurri blue stretched taut across a chest that filled it completely, white piping running clean along the seams from shoulder to boot, blue wristbands firm against forearms that had outgrown everything else he'd been wearing. A red cape settled across his shoulders with a weight that felt like the last piece of an argument.
+Heat concentrated in his jaw and the beard came with it — thick and black and immediate, the scratch of it against his own skin registering before he'd fully processed that it was there. He reached up, almost without thinking, and touched his face.
+
+[![019](/stories/assets/images/2026-03-10-super-orso/019.png "019")](/stories/assets/images/2026-03-10-super-orso/019.png)
+
+Dark hair spread across his chest and arms in the same surge, dense and warm. Blue light pulsed once, sharp and brief, and the suit came with it: Azzurri blue stretched taut across a chest that filled it completely, white piping running clean along the seams from shoulder to boot, blue wristbands firm against forearms that had outgrown everything else he'd been wearing. A red cape settled across his shoulders with a weight that felt like the last piece of an argument.
 
 It was over in seconds.
 
