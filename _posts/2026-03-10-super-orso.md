@@ -4,12 +4,11 @@ title:  "Super Orso - Draft"
 date:   2026-03-10 09:00:00 +0100
 categories: stories drafts
 ---
-
-[![A powerful nighttime rooftop fight between two muscular men. On the left, a heavily muscular bearded man with dark hair wearing a black latex shirt, leather harness, black leather pants, and boots lunges forward, driving his shoulder into the chest of a superhero. On the right, the superhero — an enormous bearded man in a blue bodysuit with red panels, gold trim, a bear paw emblem on his chest, red boots, and a flowing red cape—absorbs the impact while sliding slightly across the gravel rooftop. Dust, sparks, and small stones burst outward from the collision as the city skyline glows behind them under a dark night sky.](/stories/assets/images/2026-03-10-super-orso/001.png "Nighttime rooftop clash between Superbear and Andrew")](/stories/assets/images/2026-03-10-super-orso/001.png)
-
 The directive was simple: intercept the hero. Neutralise. Return.
 
-Andrew was already moving when Superbear cleared the rooftop edge. The body knew what to do — it always knew now, the conditioning sitting deep in the muscle, in the reflex, in the space where deciding used to happen. He crossed the gap between buildings fast and low, boots finding the ledge and leaving it in the same motion, and closed the distance before the hero had fully turned.
+![Super Orso](/stories/assets/images/2026-03-10-super-orso/001.png)
+
+Andrew was already moving when Superbear cleared the rooftop edge. The body knew what to do — it always knew now, the conditioning sitting deep in the muscle, in the reflex, in the space where deciding used to happen. He crossed the gap between buildings fast and low, boots finding the ledge and leaving it in the same motion, the harness tight across his chest, and closed the distance before the hero had fully turned.
 
 He hit him shoulder-first, full weight behind it, and felt the impact travel all the way up his arm and into his chest. Superbear absorbed it — staggered back a step, no more — and came around with a strike that caught Andrew across the jaw and sent him sideways into a ventilation unit hard enough to crumple the housing.
 
@@ -19,7 +18,7 @@ Bill's cigar smoke had packed him with dark bear energy, dense and unstable, and
 
 That bought two seconds. The body used them.
 
-It closed, got inside Superbear's reach, and grabbed. Andrew's hands locked around the hero's forearms and his feet planted and he *hauled*, trying to take the larger man's balance, and for a moment it almost worked — Superbear's weight shifted, his footing uncertain on the gravel — but then a knee came up hard into Andrew's midsection and the grip broke and Andrew went back three steps, chest heaving, and the fight reset.
+It closed, got inside Superbear's reach, and grabbed. Andrew's hands locked around the hero's forearms and his feet planted and he *hauled*, trying to take the larger man's balance, and for a moment it almost worked — Superbear's weight shifted, his footing uncertain on the gravel — but then a knee came up hard into Andrew's midsection and the grip broke and Andrew went back three steps, chest heaving, and the fight reset. He felt the harness shift with the impact — one of the chest straps pulling loose from its anchor, the leather creaking under tension it hadn't been built to take.
 
 Somewhere behind the action, in the part of him that watched from a long way back, Andrew registered the red cape. The bear crest on the chest. *Superbear.* He knew that name. The city's hero. Everyone knew that name. The thought arrived fully formed and dissolved before it could mean anything — the suppression closed over it like water over a stone.
 
@@ -29,25 +28,19 @@ Superbear pulled back. Went up.
 
 Andrew tracked him and had nothing to offer. The hero rose fast — ten feet, twenty, thirty — and from up there went still, hovering with the city spread out behind him, looking down at the figure on the roof with an expression that gave him nothing. A pause that lasted long enough to feel deliberate. Long enough to feel like a decision being made.
 
-Then he came down hard, fast, and aimed.
+Then he came down fast, closing the distance before Andrew could move, and drove into him with his full weight behind it — a tackle that took them both to the ground hard.
 
-The impact drove Andrew into the rooftop surface, the full force of Superbear's descent concentrated into the strike, and the gravel bit into his palms and his vision whited at the edges. He felt the harness take most of the shock — felt one strap give under the pressure, snap, the buckle scraping a hot line across his chest as the leather came apart at the seam.
+The impact drove Andrew onto his back, the gravel biting into his shoulders, his vision whiting at the edges. The harness — already stressed, the chest strap half-pulled from its anchor — took the shock and gave. The remaining strap snapped, the buckle scraping a hot line across his chest, and with it something else gave too — the suppression dropping a register, thin and unstable where it had been solid. Superbear's hand closed around Andrew's bare forearm, holding him down, and something moved through that contact — rainbow energy, unasked for, finding the gap in the suppression before either of them understood what was happening. What happened next was a break — clean and sudden and total, the way ice goes.
 
-The gap it left was small.
-
-It was enough.
-
-Rainbow energy from Superbear's strike bled through the opening before the suppression could compensate. What happened next was a break — clean and sudden and total, the way ice goes.
-
-Andrew was on his hands and knees on a rooftop in a torn harness in a body chosen for him, and he was himself, fully and completely and horribly himself, for the first time since the warehouse.
+Andrew was flat on his back on a rooftop in a torn harness in a body chosen for him, and he was himself, fully and completely and horribly himself, for the first time since the warehouse. Superbear was still over him, one hand on his forearm, the weight of him close.
 
 He tried to speak. What came out first was: "*Cazzo.*"
 
 Then, in English, barely above a breath: "I didn't want to."
 
-Superbear had landed. He held his position, crouching down to Andrew's level and looking at him for a long moment — at the expression on his face, at his hands open and still against the gravel — and waited.
+Superbear held his position, looking down at him for a long moment — at the expression on his face, at his free hand open and still against the gravel — and waited.
 
-Andrew looked up at him. The city's hero, in person, three feet away.
+Andrew looked up at him. The city's hero, three feet away.
 
 "I didn't want to," he said again. It was the only thing that seemed true enough to say out loud.
 
@@ -55,32 +48,13 @@ Andrew looked up at him. The city's hero, in person, three feet away.
 
 That was four weeks ago.
 
-What followed happened in pieces, the way things do when the body is fighting itself. A guest room somewhere safe, its address kept from him. The physical regression arriving within the first day — mass receding, body hair thinning, the beard softening and shortening until the mirror showed him someone he recognised. The exchange student. The invisible one. His own face, finally, looking back at him like a question he had no answer for.
+What followed happened in pieces, the way things do when the body is fighting itself. A guest room somewhere safe, its address kept from him. The physical regression arrived within the first day — mass receding, body hair thinning, the beard shortening until the mirror showed him someone he recognised. The exchange student. His own face, looking back at him.
 
-The corruption surfaced without warning. Dark and sudden, his voice going wrong, something foreign moving through him. During one of those episodes — he was maybe a week in, the worst of it still close — Superbear stayed in the room with him. Andrew was on the bed, riding it out, when he felt a hand come down on his chest. Wide and warm and steady, pressing gently against his chest like an anchor.
+The corruption surfaced without warning. Dark and sudden, his voice going wrong, something foreign moving through him. It was loud — pressure more than sound, a constant roar that pushed his own thoughts to the edges. During those episodes Superbear stayed — every time, without being asked. He sat at the edge of the bed and said nothing, and when the wave crested he placed a hand flat against Andrew's chest and held it there. The roar stopped. Just stopped, the way a door closes on noise from another room. A warmth stayed behind where the hand had been, faint and specific, like the afterimage of something bright. Andrew lay still. Superbear kept his hand there until his breathing evened out, then lifted it. Neither of them mentioned it.
 
-Superbear said nothing. Andrew was in no position to speak.
+Andrew carried it afterward. Some mornings he woke with his chest feeling fuller than it should, a low steady heat that wasn't quite his own. He didn't know what to make of it. He left it alone.
 
-But something moved through that contact. Not forced — offered. Warm where Bill's energy had been dense and pressing, expansive where the dark energy had narrowed everything down to a point. It cut through the episode like light under a door. The corruption receded. Andrew's own breath came back to him.
-
-Superbear lifted his hand. The moment passed. Neither of them mentioned it.
-
-But Andrew carried it. He could feel it afterward, sitting low in his chest — quiet, patient, something that had been given rather than taken.
-
-Alone in the dark some nights later, his mind did what it had always done. Ran the room. Connected the data.
-
-He thought about the campus ad.
-Placed exactly where a financially precarious exchange student would see it.
-
-He thought about Bill's questions in the warehouse.
-How long he'd been in the city. Who he knew. Whether he had family nearby.
-
-Not small talk.
-Reconnaissance.
-
-Every answer Andrew gave had confirmed something Bill already suspected.
-
-He was found because he was findable. Selected. Because of exactly who he was.
+Alone in the dark some nights later, his mind ran the room. The campus ad placed exactly where a broke exchange student would see it. Bill's questions in the warehouse — how long he'd been in the city, who he knew, whether he had family nearby — landing like small talk, functioning as a checklist. Andrew had been scouted before he walked through the door. He had answered every question.
 
 He lay there and held that and let it become something harder than shame.
 
@@ -90,7 +64,7 @@ Today was the first day outside.
 
 He walked without a destination, relearning the city at street level, in a body he'd worn for twenty years and now inhabited differently.
 
-He blended. Nobody looked at him. He was slight, smooth-faced, dressed in a grey jacket and jeans that fit the frame he'd had before the warehouse. The invisibility was back, full and complete, and it sat wrong now in a way he couldn't fully account for. He'd never asked for it — it had simply always been the consequence of the body he was in. Now, knowing what the alternative felt like, it sat on him like something he was done with.
+He blended. Nobody looked at him. He was slight, smooth-faced, dressed in a grey jacket and jeans that fit the frame he'd had before the warehouse.
 
 He kept walking. He could feel the healing energy settled low in his chest — quiet, patient. Almost done.
 
@@ -108,17 +82,19 @@ He was crossing the street before the thought completed. No plan. No calculation
 
 "Walk away," Andrew said.
 
-"Mind your business, little man," the goon said.
+The goon glanced past him at the young man, then back. Taking his time. "You sure about that, friend?" He said it the way you'd say it to a child who'd wandered into the wrong room — patient where another man might have been hostile. Waiting for Andrew to realise his mistake and correct it.
 
-The goon held his ground. He took a step forward instead, close enough that Andrew had to hold his position deliberately, his heart loud in his own ears.
+The goon took a step forward, close enough that Andrew had to hold his position deliberately, his heart loud in his own ears. The almost-smile hadn't moved.
 
-The energy in his chest stopped being quiet.
+The energy in his chest answered him.
 
-It arrived — the way a door opens, fast and total. A wave of heat broke through his bloodstream all at once, thick and immediate, and his heart responded — dropping lower, beating harder, a slow powerful rhythm that he felt in his throat and his wrists and the soles of his feet. Something flooded through him alongside the heat, something that sharpened the air and made the street and the goon and the young man behind him all suddenly, impossibly clear. Power, building from the inside out. Pure certainty. The feeling of something switching on that had always been meant to be on.
+Heat broke through his bloodstream in one decisive wave — thick, immediate, nothing like the cold press of Bill's energy or the corruption's narrowing grip. His heart shifted rhythm, slower and deeper, a beat he felt in his jaw and the backs of his hands and the soles of his feet all at once. The air sharpened. The street sharpened. The goon in front of him sharpened into something small and very readable. He stayed standing. He held the goon's gaze.
 
-His breath went first. One sharp inhale, involuntary, his chest expanding to take in more air than it had ever held before — and then the expansion kept going. His ribcage broadened, the fabric of his jacket pulling tight across his back, his shoulders widening past the seams, the stitching giving way with a sound he felt more than heard. Muscle thickened through his arms and chest in a steady, insistent surge, his skin stretching taut over mass that kept arriving, his thighs pressing against his jeans, his hands growing wide and heavy at his sides. The pressure built and released and built again, each wave larger than the last, his body reshaping around a frame that had been waiting for exactly this moment. His feet found the pavement differently when it finished. More of him pressing down. The ground solid and certain beneath him in a way it had never been before.
+His chest expanded first — one sharp involuntary inhale that kept going, his ribcage broadening past what his lungs needed, his jacket pulling taut across his back with a resistance that built and built and then simply gave. The stitching parted along the shoulders with a sound he felt more than heard. The mass arrived without stages: through his shoulders first, a deep pressure building under the skin like something finally filling a space that had always been too large — then the release, muscle thickening outward, warm and dense, a pleasant ache that sat at the exact threshold between effort and ease. Through his arms next, the same pressure and the same release, his sleeves tight and then gone, the skin over his biceps stretching taut and warm. Through his thighs the pressure came differently — slower, fuller, a dense warmth spreading down through the quad and into the knee, his jeans losing the fight inch by inch as the muscle beneath them simply outgrew the argument. Each wave hitting harder than the last, a full-body throb that started deep in the muscle and pushed outward, and he was aware of all of it at once, aware of his own body in a way he had never been before. A deep, insistent pleasure — the kind that lives in the muscle and means something. His hands grew wide and heavy at his sides, fingers thickening, his arms hanging differently now — weighted, settled, the pull of new mass making itself known at his shoulders and wrists. His feet found the pavement differently when it finished. More of him pressing down. The ground solid under him in a way it had never quite been before.
 
-The heat concentrated in his jaw and the beard came with it — fast and total, thick and black, the scratch of it immediate against his own skin when he reached up without thinking to touch his face. Dark hair spread across his chest and arms in the same wave, dense and warm. Blue light pulsed once, bright and sharp, and the suit came with it — his ruined jacket gone, Azzurri blue in its place, stretched tight across a chest and shoulders that filled it completely. White piping running along the seams from shoulder to boot. A deep V at the collar. Blue wristbands, firm against forearms thick with muscle. A red cape settling across his shoulders with a weight that felt deliberate.
+The goon's almost-smile was gone.
+
+Heat concentrated in his jaw and the beard came with it — thick and black and immediate, the scratch of it against his own skin registering before he'd fully processed that it was there. He reached up, almost without thinking, and touched his face. Dark hair spread across his chest and arms in the same surge, dense and warm. Blue light pulsed once, sharp and brief, and the suit came with it: Azzurri blue stretched taut across a chest that filled it completely, white piping running clean along the seams from shoulder to boot, blue wristbands firm against forearms that had outgrown everything else he'd been wearing. A red cape settled across his shoulders with a weight that felt like the last piece of an argument.
 
 It was over in seconds.
 
@@ -160,26 +136,41 @@ He stood there for a moment, just breathing.
 
 He came through the apartment door looking like that.
 
-Superbear registered it first — the size of him filling the doorframe, the suit, the cape — and made a sound that was less a word than an event. Both hands came up and landed on Andrew's shoulders, gripping them, then moved to his arms, his bicep, the broad plane of his chest. Mike circled him the way you circle something that defies belief, talking the entire time, at least two things said simultaneously, his delight so uncontained it had become its own weather system.
+Mike was on his feet instantly. "*What the hell—*"
 
-"—the suit, look at the *suit*, are those — is that *blue*, that's your blue, that's exactly — and the beard — *Nick*, are you seeing this—"
+He stopped. Stared. Andrew watched him work through it — the size, the suit, the beard, the sheer amount of him filling the doorframe — and then land on his face.
+
+"Andrew?"
+
+"It's me," Andrew said.
+
+"*Andrew.*" Mike said it again like he was testing whether it would stop being true. "You're — you're a superhero. You're huge!" He jabbed both hands toward Andrew's arms, bouncing on his heels. "Flex! Right now. Flex for me!"
+
+Andrew glanced down at his own arm. Raised it slowly, almost uncertainly, and flexed — a small, shy smile breaking through. The sleeve pulled tight across his bicep. Mike grabbed his own head with both hands in excitement and squealed.
+
+He crossed to him in two steps, both hands landing on Andrew's arms — gripping the bicep, the shoulder, squeezing, moving to the chest and back again. Talking the entire time, at least two things simultaneously, his delight so uncontained it had become its own weather system.
+
+"—just like us, look at you, oh my god that huge hairy chest — that *suit* — is that blue, that's your blue — and the beard — *Nick*, are you seeing this—"
 
 "I'm seeing it," Nick said from across the room.
 
-He was leaning in the doorway to the kitchen, arms folded, watching with an expression Andrew was starting to be able to read. Quiet. Genuinely pleased. He pushed off the wall and crossed to Andrew, reached out and touched the fabric at his shoulder once — just once, fingertips pressing into the material to confirm it was real — and then met Andrew's eyes.
+He was leaning in the kitchen doorway, arms folded, watching with an expression Andrew was starting to be able to read. Quiet. Genuinely pleased. Not performing it. He pushed off the wall and crossed to Andrew, looked at him for a moment — the suit, the size, the cape — then met his eyes.
 
-"So that's what that was," he said. A small smile.
+"You're one of us now." A small smile. "Have you thought about a name yet?"
 
-Andrew looked between them.
+Andrew looked between them. "I was thinking—" He paused. "*Super Orso.*" He said it like he was still deciding whether it fit.
 
-Mike's hands were still on his arms, grip firm and warm, squeezing the muscle like he was checking it was real and finding this extremely satisfying. Andrew registered it and let it land. He flexed, almost involuntarily, and felt Mike's grip tighten in response and heard him say something wordless and enthusiastic.
+"*Super Orso.*" Mike grabbed Andrew's arm with both hands. "Super. *Orso.*" He said it again like he was tasting it, and then his expression resolved into something that left no room for doubt. "*That's the one.* That is absolutely the one—"
 
-He flexed again, deliberate this time, watching the reaction.
+"That's just your name, Mike," Nick said. "In Italian. Orso means bear."
 
-It felt good to be looked at this way. He registered that clearly, turned it over, found it true. It was different from anything Bill had given him — different in quality, in direction, in what it assumed he was for. Mike and Nick were looking at him like he'd done something. Like the body was evidence of a choice rather than a product.
+Mike's mouth opened. Closed. He looked at Andrew. Then at himself. Then back at Andrew. "*I don't care.* It's still the one. I love it!"
 
-He pulled the cape around and looked at it — the red against the blue, the weight of it in his hand. Still finding his bearings. The body he'd had before the warehouse had always felt unfinished. The body Bill made him was enormous and borrowed. This one was both of those things resolved into something he had no prior image for, and the question of what to make of it sat open, the answer still forming.
+Nick smiled. Just that.
 
-He flexed again. Watched Nick's expression do something small and amused.
+He looked down at himself. Super Orso. The suit was real. The name was real.
+
+It felt good to be looked at this way — different from anything Bill had given him, different in quality, in direction, in what it assumed he was for. Mike and Nick were looking at him like he'd done something.
 
 He could figure out the rest later. He had time.
+
