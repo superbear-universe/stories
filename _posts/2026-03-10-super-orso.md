@@ -162,11 +162,11 @@ Andrew looked between them. "I was thinking—" He paused. "*Super Orso.*" He sa
 
 "*Super Orso.*" Mike grabbed Andrew's arm with both hands. "Super. *Orso.*" He said it again like he was tasting it, and then his expression resolved into something that left no room for doubt. "*That's the one.* That is absolutely the one—"
 
-"That's just your name, Mike," Nick said. "In Italian. Orso means bear."
+"That's just your name in Italian, Mike," Nick said. "Orso means bear."
 
 Mike's mouth opened. Closed. He looked at Andrew. Then at himself. Then back at Andrew. "*I don't care.* It's still the one. I love it!"
 
-Nick smiled. Just that.
+Nick smiled. "Can´t argue with that. Super Orso it is."
 
 "*Super Orso,*" Mike said again, quietly, to himself. Still tasting it.
 
