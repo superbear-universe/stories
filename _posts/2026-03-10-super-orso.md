@@ -154,6 +154,15 @@ Heat concentrated in his jaw and the beard came with it — thick and black and 
 
 Dark hair spread across his chest and arms in the same surge, dense and warm. Blue light pulsed once, sharp and brief, and the suit came with it: Azzurri blue stretched taut across a chest that filled it completely, white piping running clean along the seams from shoulder to boot, blue wristbands firm against forearms that had outgrown everything else he'd been wearing. A red cape settled across his shoulders with a weight that felt like the last piece of an argument.
 
+<div style="display:flex; gap:10px;">
+  <a href="/stories/assets/images/2026-03-10-super-orso/020.png" style="width:50%;">
+    <img src="/stories/assets/images/2026-03-10-super-orso/020.png">
+  </a>
+  <a href="/stories/assets/images/2026-03-10-super-orso/021.png" style="width:50%;">
+    <img src="/stories/assets/images/2026-03-10-super-orso/021.png">
+  </a>
+</div>
+
 It was over in seconds.
 
 Andrew looked down at himself. The suit. The size of his hands, the mass of his arms, the cape shifting against his back in the cold air. Something broke open in his chest — brief and bright and completely involuntary. He was enormous. He was a superhero. And unlike the last time he'd been this size, every inch of it was his — chosen, arrived at, answering to nobody. He almost laughed.
